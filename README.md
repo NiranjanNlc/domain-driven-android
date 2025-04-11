@@ -56,3 +56,8 @@ During this time an activation code is displayed on the screen and user can use 
 To collect the points user needs an account. Account can be created directly in the application.
 
 User needs to enter an email address and accept Terms & Conditions notes.
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
